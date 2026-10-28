@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+checkpoints/
+0_result_*/
+*.log
